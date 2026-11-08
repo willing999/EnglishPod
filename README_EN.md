@@ -201,9 +201,6 @@ Give a ⭐ star at the top-right corner of the GitHub page — it helps more peo
 
 ### ☕ Buy Me a Coffee
 
-<img width="959" height="772" alt="Donation QR" src="https://github.com/user-attachments/assets/bef30aed-95bf-4a76-a1ed-b8cfd349d6f8" />
-<img width="1182" height="1772" alt="Donation QR Alipay" src="https://github.com/user-attachments/assets/e92ef4e8-d748-4bdd-8d2e-ea3d85561807" />
-
 If you'd like, you can buy me a coffee to support continued maintenance and development.
 
 ---
