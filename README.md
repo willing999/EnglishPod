@@ -203,8 +203,8 @@ python3 generate_data.py
 这是对我最大的鼓励 —— 在 GitHub 右上角点击 ⭐ Star，让更多人看到这个项目。
 
 ### ☕ **打赏一杯咖啡或者奶茶**（thank you)
-<img width="959" height="772" alt="赞赏" src="https://github.com/user-attachments/assets/bef30aed-95bf-4a76-a1ed-b8cfd349d6f8" />
-<img width="1182" height="1772" alt="赞赏zfb" src="https://github.com/user-attachments/assets/e92ef4e8-d748-4bdd-8d2e-ea3d85561807" />
+<img width="959" height="772" alt="赞赏" src="" />
+<img width="1182" height="1772" alt="赞赏zfb" src="" />
 
 如果你愿意，可以请我喝杯咖啡，支持我继续维护和更新这个项目。
 
